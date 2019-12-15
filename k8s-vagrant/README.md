@@ -77,6 +77,7 @@ Minimum Recommended Hardware Requirements
 Installation
 --
 
+- **macOS 10.13+**
 The best way to get started on a macOS is to use [Homebrew](https://brew.sh/). If you already have [Homebrew](https://brew.sh/) installed, you can install ```virtualbox```, ```vagrant```, ```vagrant-manager```,  ```ansible``` and ```kubectl``` by running the following command
 ```
 brew update && brew install virtualbox && brew install vagrant && brew install vagrant-manager && brew install ansible && brew install kubectl
@@ -88,6 +89,8 @@ You can install it by running the following command:
 ```
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 ```
+
+- **Windows 10**
 
 [top](#table-of-contents)
 &nbsp;
