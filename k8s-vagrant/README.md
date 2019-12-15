@@ -29,7 +29,7 @@ We will setup a 3 nodes Kubernetes cluster on Ubuntu 18.04, which contains the c
 |---------------|------------|--------|---------|--------------------|
 | 192.168.50.10 | k8s-master | Master | v1.14.0 | Ubuntu 18.04.1 LTS |
 | 192.168.50.11 | k8s-node-1 | Node1  | v1.14.0 | Ubuntu 18.04.1 LTS |
-| 192.168.50.12 | k8s-node-3 | Node3  | v1.14.0 | Ubuntu 18.04.1 LTS |
+| 192.168.50.12 | k8s-node-2 | Node2  | v1.14.0 | Ubuntu 18.04.1 LTS |
 
 
 &nbsp;
