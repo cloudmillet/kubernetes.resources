@@ -54,6 +54,7 @@ Minimum Recommended Hardware Requirements
 
 ### Operating System:
 - macOS 10.13+
+- Windows 10 
 
 
 
